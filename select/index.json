@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "才能が無いから何だ",
+  "base_artist": "甲斐田晴",
+  "createdAt": "2025-12-19T10:57:51.491868Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "才能が無いから何だ",
+      "artist": "甲斐田晴",
+      "has_synced": false,
+      "path": "select/pl_01_才能が無いから何だ_甲斐田晴.txt"
+    }
+  ]
+}
